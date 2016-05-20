@@ -1,3 +1,4 @@
 # hello-world
-First repository
+First repository ever!
+This is a test
 Write a bit about yourself
